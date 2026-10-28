@@ -1,0 +1,5 @@
+test_crc
+*.o
+*.gcda
+*.gcno
+*.gcov
